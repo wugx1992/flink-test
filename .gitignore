@@ -164,6 +164,4 @@ dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
 .mvn/wrapper/maven-wrapper.jar
-fh-web-portal/fh-front-end/package-lock.json
-fh-web-portal/package-lock.json
 
